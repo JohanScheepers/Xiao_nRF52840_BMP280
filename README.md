@@ -128,9 +128,4 @@ Your node will now broadcast environmental metrics over the mesh network every 3
 }
 ```
 
-Dial Label	Pressure Range (inHg)	Pressure Range (hPa)	Expected Weather Conditions	
-Stormy	<29.0 inHg	<982 hPa	Strong winds, heavy precipitation, stormy weather	
-Rain / Much Rain	29.0−29.8 inHg	982−1009 hPa	Overcast skies, rain, unsettled conditions	
-Change	29.8−30.2 inHg	1009−1022 hPa	Transitioning or variable weather	
-Fair / Settled	30.2−30.5 inHg	1022−1033 hPa	Clear, sunny, stable weather	
-Very Dry	>30.5 inHg	>1033 hPa	Prolonged dry and clear weather	
+
