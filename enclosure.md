@@ -6,6 +6,7 @@
 2. Battery (2000mAh LiPo): 50.5mm x 70.5mm x 10.5mm retaining tray located below main electronics.
 3. Solar Charger (CN3065): 40.5mm x 20.5mm x 7.5mm slot near the battery.
 4. BMP280 Sensor: Isolated 15mm x 12mm x 5mm vented chamber at the shaded bottom of the housing to prevent solar heat soak while allowing ambient airflow.
+5. Solar panel: 165mm x 165mm mounted at 30° on top.
 
 ## Enclosure & Solar Shield Specifications:
 - Outer Shell: Wall thickness = 3.0mm, minimum internal corner fillets = 2.0mm.
